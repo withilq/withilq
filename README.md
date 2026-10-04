@@ -1,7 +1,7 @@
 ### Hi there 👋 I'm İlqare
 
 - 🌱 I’m currently studying **Information Technology** at UNEC (2nd year)
-- 💻 Tech Stack: **Python, HTML, SQL**
+- 💻 Tech Stack: **Python, HTML, SQL, C++**
 - 🚀 Working towards future paths in **Cloud Computing & DevOps**
 - 🎯 Hobbies: Coding, walking, listening to music
 
