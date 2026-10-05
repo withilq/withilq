@@ -8,5 +8,5 @@
 ---
 
 #### 🛠️ Skills & Technologies:
-* **Languages & Markup:** Python, HTML, SQL
+* **Languages & Markup:** Python, HTML, SQL, C++
 * **Core Focus:** IT Fundamentals, Cloud & DevOps (Learning path)
